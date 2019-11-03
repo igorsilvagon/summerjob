@@ -1,0 +1,16 @@
+.back1{
+  background-image: url(../img/bg_1.jpg);
+  width:100%;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.back2{
+  background-image: url(../img/bg_2.jpg);
+  width:100%;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+}
