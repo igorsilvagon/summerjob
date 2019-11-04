@@ -14,3 +14,12 @@
   background-size: cover;
   color:white;
 }
+
+.back3{
+  background-image: url(../img/summerjobmobile.jpg);
+  width:100%;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+}
